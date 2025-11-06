@@ -46,10 +46,12 @@ root/
 ├── ROC_func.R
 ├── accuracymod.R
 ├── forwardselectionmod.R
-├── data sets/          # raw datasets 
-├── datasets2/          # processed dataset folder
-└── reports/
+├── results-plots/
+├── README.md
+├── LICENSE
+└── DATASETS.md
 ```
+
 
 ## Datasets Used:
 The project uses multiple public classification datasets.
