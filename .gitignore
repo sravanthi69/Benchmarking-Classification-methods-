@@ -1,0 +1,17 @@
+# R Session Junk
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Mac system junk
+.DS_Store
+
+# Raw datasets (not recommended to push huge raw data)
+data sets/
+
+# processed data
+datasets2/processeddata/
+
+# reports (generated output tables)
+reports/*.csv
